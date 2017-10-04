@@ -1,0 +1,6 @@
+version: "2"
+
+services:
+  gossm:
+    image: digitalcanvasdesign/gossm
+    build: ./
